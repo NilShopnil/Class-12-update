@@ -1,0 +1,35 @@
+@font-face {
+    src: url(fonts/Aboreto-Regular.ttf);
+    font-family: Aboreto-Regular;
+}
+
+#design1 {
+    text-align: center;
+    font-size: 100px;
+    color: red;
+    text-shadow: 4px 4px 9px white;
+    font-family: Aboreto-Regular;
+}
+body{
+    background-color:black;
+}
+#design2{
+    text-align:center;
+    font-size:50px;
+}
+#design2 span:nth-child(1){
+    color:red;
+    font-family:Arial;
+}
+    #design2 span:nth-child(2) {
+        color: yellow;
+        font-family: 'Agency FB';
+    }
+    #design2 span:nth-child(3) {
+        color: orange;
+        font-family: 'Bauhaus 93';
+    }
+    #design2 span:nth-child(4) {
+        color: crimson;
+        font-family: Papyrus;
+    }
